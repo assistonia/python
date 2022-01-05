@@ -72,9 +72,9 @@ git checkout -b “브랜치 이름”
 # 6. git push를 통해 원격 저장소에 반영하기
 
 ```swift
-git push origin 브런치 이름
+git push origin 브랜치 이름
 ```
-   > 원격 저장소에 내 브런치로 수정한 내용을 push   
+   > 원격 저장소에 내 브랜치로 수정한 내용을 push   
  
 ![image](https://user-images.githubusercontent.com/79391012/148189602-29695848-2a62-4dd0-b318-58a410a9b0bd.png)    
 ![image](https://user-images.githubusercontent.com/79391012/148189639-fcfeec67-6f38-49af-a1c6-a52e0856c698.png)

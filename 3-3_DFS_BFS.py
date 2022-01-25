@@ -1,5 +1,4 @@
 from collections import deque
-import queue
 
 def dfs(graph,N,visited):
     #방문 처리

@@ -1,3 +1,5 @@
+# 구명 보트
+
 global population
 
 # 필요한 구명보트 개수 계산
@@ -23,6 +25,7 @@ def rescue_boat_amount(people, limit):
 
         else:
             return (population - compensate + 1) / 2 + compensate
+
 
 
 people = []

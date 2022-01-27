@@ -34,7 +34,11 @@ class stack:
 
 
     def top(self):
-        return self.arr[len(arr) - 1]
+        if len(arr) > 0:
+            return self.arr[len(arr) - 1]
+        
+        else:
+            return -1
 
 
 def main():
